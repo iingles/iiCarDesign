@@ -16,7 +16,7 @@ namespace iiCarDesign
         }
 
         /// <summary>
-        ///     
+        ///     Validate the input and display a result to the user
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
